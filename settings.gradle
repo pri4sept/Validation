@@ -1,0 +1,3 @@
+include ':validationlibrary'
+include ':app'
+rootProject.name = "Validation"
